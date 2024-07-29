@@ -1,0 +1,10 @@
+C:\Users\Simulator\Desktop\AppTactile\AppTactile\bin\Debug\AppTactile.exe.config
+C:\Users\Simulator\Desktop\AppTactile\AppTactile\bin\Debug\AppTactile.exe
+C:\Users\Simulator\Desktop\AppTactile\AppTactile\bin\Debug\AppTactile.pdb
+C:\Users\Simulator\Desktop\AppTactile\AppTactile\obj\Debug\AppTactile.csproj.AssemblyReference.cache
+C:\Users\Simulator\Desktop\AppTactile\AppTactile\obj\Debug\AppTactile.Form1.resources
+C:\Users\Simulator\Desktop\AppTactile\AppTactile\obj\Debug\AppTactile.Properties.Resources.resources
+C:\Users\Simulator\Desktop\AppTactile\AppTactile\obj\Debug\AppTactile.csproj.GenerateResource.cache
+C:\Users\Simulator\Desktop\AppTactile\AppTactile\obj\Debug\AppTactile.csproj.CoreCompileInputs.cache
+C:\Users\Simulator\Desktop\AppTactile\AppTactile\obj\Debug\AppTactile.exe
+C:\Users\Simulator\Desktop\AppTactile\AppTactile\obj\Debug\AppTactile.pdb
